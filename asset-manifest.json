@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bookinsite.github.io/static/css/main.7a121f99.chunk.css",
-    "main.js": "/bookinsite.github.io/static/js/main.38fb1763.chunk.js",
-    "main.js.map": "/bookinsite.github.io/static/js/main.38fb1763.chunk.js.map",
+    "main.js": "/bookinsite.github.io/static/js/main.b48819aa.chunk.js",
+    "main.js.map": "/bookinsite.github.io/static/js/main.b48819aa.chunk.js.map",
     "runtime-main.js": "/bookinsite.github.io/static/js/runtime-main.2daf748a.js",
     "runtime-main.js.map": "/bookinsite.github.io/static/js/runtime-main.2daf748a.js.map",
     "static/css/2.800be05e.chunk.css": "/bookinsite.github.io/static/css/2.800be05e.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.800be05e.chunk.css",
     "static/js/2.7d6cae95.chunk.js",
     "static/css/main.7a121f99.chunk.css",
-    "static/js/main.38fb1763.chunk.js"
+    "static/js/main.b48819aa.chunk.js"
   ]
 }
