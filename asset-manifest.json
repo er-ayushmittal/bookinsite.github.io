@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/bookinsite/static/css/main.5375bceb.chunk.css",
+    "main.js": "/bookinsite/static/js/main.acb1f896.chunk.js",
+    "main.js.map": "/bookinsite/static/js/main.acb1f896.chunk.js.map",
+    "runtime-main.js": "/bookinsite/static/js/runtime-main.cd04e728.js",
+    "runtime-main.js.map": "/bookinsite/static/js/runtime-main.cd04e728.js.map",
+    "static/css/2.800be05e.chunk.css": "/bookinsite/static/css/2.800be05e.chunk.css",
+    "static/js/2.24989fc5.chunk.js": "/bookinsite/static/js/2.24989fc5.chunk.js",
+    "static/js/2.24989fc5.chunk.js.map": "/bookinsite/static/js/2.24989fc5.chunk.js.map",
+    "index.html": "/bookinsite/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/bookinsite/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.5375bceb.chunk.css.map": "/bookinsite/static/css/main.5375bceb.chunk.css.map",
+    "static/js/2.24989fc5.chunk.js.LICENSE.txt": "/bookinsite/static/js/2.24989fc5.chunk.js.LICENSE.txt",
+    "static/media/banner1.96f58f80.jpg": "/bookinsite/static/media/banner1.96f58f80.jpg",
+    "static/media/banner2.e67c847c.jpg": "/bookinsite/static/media/banner2.e67c847c.jpg",
+    "static/media/index.css": "/bookinsite/static/media/choosee.8038c65e.jpg",
+    "static/media/logo.a06e1298.svg": "/bookinsite/static/media/logo.a06e1298.svg",
+    "static/media/p4.c3db5908.jpg": "/bookinsite/static/media/p4.c3db5908.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd04e728.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.24989fc5.chunk.js",
+    "static/css/main.5375bceb.chunk.css",
+    "static/js/main.acb1f896.chunk.js"
+  ]
+}
