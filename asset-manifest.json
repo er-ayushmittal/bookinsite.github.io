@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f878c9b.chunk.css",
-    "main.js": "/static/js/main.d5c084bc.chunk.js",
-    "main.js.map": "/static/js/main.d5c084bc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ce5aab1d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ce5aab1d.js.map",
-    "static/css/2.800be05e.chunk.css": "/static/css/2.800be05e.chunk.css",
-    "static/js/2.24989fc5.chunk.js": "/static/js/2.24989fc5.chunk.js",
-    "static/js/2.24989fc5.chunk.js.map": "/static/js/2.24989fc5.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.800be05e.chunk.css.map": "/static/css/2.800be05e.chunk.css.map",
-    "static/css/main.5f878c9b.chunk.css.map": "/static/css/main.5f878c9b.chunk.css.map",
-    "static/js/2.24989fc5.chunk.js.LICENSE.txt": "/static/js/2.24989fc5.chunk.js.LICENSE.txt",
-    "static/media/banner1.96f58f80.jpg": "/static/media/banner1.96f58f80.jpg",
-    "static/media/banner2.e67c847c.jpg": "/static/media/banner2.e67c847c.jpg",
-    "static/media/index.css": "/static/media/choosee.8038c65e.jpg",
-    "static/media/logo.a06e1298.svg": "/static/media/logo.a06e1298.svg",
-    "static/media/p4.c3db5908.jpg": "/static/media/p4.c3db5908.jpg"
+    "main.css": "/bookinsite.github.io/static/css/main.7a121f99.chunk.css",
+    "main.js": "/bookinsite.github.io/static/js/main.d5c084bc.chunk.js",
+    "main.js.map": "/bookinsite.github.io/static/js/main.d5c084bc.chunk.js.map",
+    "runtime-main.js": "/bookinsite.github.io/static/js/runtime-main.2daf748a.js",
+    "runtime-main.js.map": "/bookinsite.github.io/static/js/runtime-main.2daf748a.js.map",
+    "static/css/2.800be05e.chunk.css": "/bookinsite.github.io/static/css/2.800be05e.chunk.css",
+    "static/js/2.24989fc5.chunk.js": "/bookinsite.github.io/static/js/2.24989fc5.chunk.js",
+    "static/js/2.24989fc5.chunk.js.map": "/bookinsite.github.io/static/js/2.24989fc5.chunk.js.map",
+    "index.html": "/bookinsite.github.io/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/bookinsite.github.io/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.7a121f99.chunk.css.map": "/bookinsite.github.io/static/css/main.7a121f99.chunk.css.map",
+    "static/js/2.24989fc5.chunk.js.LICENSE.txt": "/bookinsite.github.io/static/js/2.24989fc5.chunk.js.LICENSE.txt",
+    "static/media/banner1.96f58f80.jpg": "/bookinsite.github.io/static/media/banner1.96f58f80.jpg",
+    "static/media/banner2.e67c847c.jpg": "/bookinsite.github.io/static/media/banner2.e67c847c.jpg",
+    "static/media/index.css": "/bookinsite.github.io/static/media/choosee.8038c65e.jpg",
+    "static/media/logo.a06e1298.svg": "/bookinsite.github.io/static/media/logo.a06e1298.svg",
+    "static/media/p4.c3db5908.jpg": "/bookinsite.github.io/static/media/p4.c3db5908.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ce5aab1d.js",
+    "static/js/runtime-main.2daf748a.js",
     "static/css/2.800be05e.chunk.css",
     "static/js/2.24989fc5.chunk.js",
-    "static/css/main.5f878c9b.chunk.css",
+    "static/css/main.7a121f99.chunk.css",
     "static/js/main.d5c084bc.chunk.js"
   ]
 }
